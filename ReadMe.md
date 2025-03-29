@@ -8,7 +8,7 @@ I just finished learning basic HTML, CSS, and Javascript. Now I am practicing an
 
 * 🌍  I'm based in Bangkok
 * ✉️  You can contact me at [permgodmode0123456789@gmail.com](mailto:permgodmode0123456789@gmail.com)
-* 🧠  I'm learning SASS, Bootstrap5 , Reactjs and php
+* 🧠  I'm learning SASS, Bootstrap5 , php and ReactJS
 
 <a href="https://www.github.com/permpptStudio" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/permpptStudio?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
