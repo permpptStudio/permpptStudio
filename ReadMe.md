@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Preeti Trussat
 ======================================================================================================================================
 
-Full Stack Website Developer ( Bascic study and Training )
+ Website Developer and Bot Developer ( Bascic study and Training )
 ------------------------------------------------------
 
 I just finished learning basic HTML, CSS, and Javascript. Now I am practicing and completing 10-15 projects before starting to study the next technical skill.
